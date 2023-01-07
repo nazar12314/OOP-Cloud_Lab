@@ -40,7 +40,7 @@ public class DBConnection {
         ResultSet result = stmt.executeQuery(query);
         List<String> resultList = new ArrayList<>();
 
-        while(result.next()){
+        while (result.next()) {
             resultList.add(result.getString("image_data"));
         }
 

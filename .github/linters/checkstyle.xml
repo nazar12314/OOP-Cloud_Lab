@@ -222,10 +222,6 @@
         <module name="StaticVariableName">
             <property name="format" value="^[a-z][a-zA-Z]*$|^[A-Z][A-Z_]*$"/>
         </module>
-        <module name="TypeName">
-            <property name="format" value="^[A-Z][a-zA-Z]*$"/>
-        </module>
-
         <!-- =========================================================================== -->
         <!-- Regexp                                                                      -->
         <!-- http://checkstyle.sourceforge.net/config_regexp.html                        -->
