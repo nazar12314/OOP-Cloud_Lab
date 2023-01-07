@@ -1,4 +1,4 @@
-package org.example.chainofresponsibility;
+package org.example.Task1;
 
 public class Handler20 extends Handler {
 
