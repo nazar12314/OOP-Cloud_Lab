@@ -1,7 +1,6 @@
 import org.example.Task2.CachedDocument;
 import org.example.Task2.Document;
 import org.example.Task2.SmartDocument;
-import org.example.Task2.TimedDocument;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
